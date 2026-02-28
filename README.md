@@ -110,6 +110,6 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 <div align="center">
 
-*Open to roles in decision science, behavioural data science, risk analysis, and applied research.*
+*Seeking roles in financial crime analysis, intelligence research, investigative consultancy, decision science, behavioural data science, risk analysis, and applied research*
 
 </div>
