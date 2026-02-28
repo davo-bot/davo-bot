@@ -69,7 +69,7 @@ I approach quantitative problems through a behavioural lens because the numbers 
 | Project | What It Does | Status |
 |--------|-------------|----------|
 | [🔍 Insider Protocol](https://github.com/davo-bot/insider-protocol) | Real-time fraud detection for crypto markets using concentration velocity monitoring | 🟡 Active |
-| [🎮 Foresight](https://github.com/davo-bot/fc26-performance-tracker) | Behavioural research instrument testing matchmaking manipulation vs psychology vs fatigue | 🟡 Active |
+| [🎮 Foresight](https://github.com/davo-bot/Foresight) | Behavioural research instrument testing matchmaking manipulation vs psychology vs fatigue | 🟡 Active |
 | [🤖 LLM Adversarial Research](https://github.com/davo-bot/llm-adversarial-research) | Documented study of AI reasoning degradation under cognitive load and social framing | 🟢 Complete |
 | [🏙 Thamesmead Economic Analysis](https://github.com/davo-bot/thamesmead-economic-analysis) | Cross-database validation showing UK business statistics are database-dependent constructs | 🔴 Halted |
 
