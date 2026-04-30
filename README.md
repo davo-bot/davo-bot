@@ -9,7 +9,9 @@
 ### I like building systems.
 
 Psychology & Business graduate.
-Self-teaching Python and SQL.
+
+Self-teaching Coding (Python and SQL)
+
 I approach quantitative problems through a behavioural lens because the numbers rarely explain themselves.
 
 </div>
@@ -18,7 +20,7 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 ## 🔍 What I Do
 
-> Every project starts from the same question: *What am I actually trying to measure here, and what is the gap between that and what people think is being measured?*
+> Every project starts from the same question: *What can I see, and what can I try to do about it?*
 
 <div align="center">
   
@@ -46,10 +48,12 @@ I approach quantitative problems through a behavioural lens because the numbers 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude]
+![Codex]
+![Cursor]
 
 **Methods**
 
-![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-FF4B4B?style=for-the-badge)
 ![Behavioural Analysis](https://img.shields.io/badge/Behavioural%20Analysis-8A2BE2?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-2ECC71?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Cross--Database%20Validation-F39C12?style=for-the-badge)
@@ -58,8 +62,8 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 ## 🚧 Currently Working On
 
-- 🔬 **Insider Protocol** — Building a real-time fraud detection layer for crypto markets that identifies manipulation before it becomes visible on price charts
-- 📊 **Foresight** — Measuring whether performance deteriorates at predictable psychological thresholds or whether the pattern is externally engineered in competitive games
+- 🔬 **Insider Protocol** — Building a real-time fraud detection layer for crypto markets that identifies manipulation before it becomes visible on price charts, testing as an opportunity to locate tokens with higher user confidence of potential price appreciation at public release.
+- 📊 **Foresight** — Measuring whether performance deteriorates at predictable psychological thresholds or whether the pattern is externally engineered in competitive games, aided with Impulsiveness and measuring performance to learn and understand person patterns to encourage improvement and growth. 
 - 📚 **Learning:** Deepening expertise in AI prompt engineering and adversarial AI testing, while building toward Streamlit dashboards and machine learning for behavioural modelling
 
 ---
@@ -88,12 +92,12 @@ I approach quantitative problems through a behavioural lens because the numbers 
   
   ![Thinking-GIF](https://github.com/user-attachments/assets/fe5fedaa-9a4a-42b8-a454-6aa00637b6d1)
 
-## 🧠 How I Think (Assumed)
+## 🧠 How I Think 
 
 - **First principles over frameworks.** I research the infrastructure before I execute anything.
 - **Hypothesis-driven.** Every model I build has a testable claim and defined success criteria. (I HOPE)
-- **Honest about gaps.** I document what doesn't work and why, not just what does.
-- **Cross-domain.** I bridge behavioural psychology with quantitative methods because most problems sit at that intersection.
+- **Honest about gaps.** I learn by trying.
+- **Cross-domain.** I love bridging behavioural psychology with quantitative methods because most problems sit at that intersection.
 
 ---
 
@@ -110,6 +114,6 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 <div align="center">
 
-*Seeking roles in financial crime analysis, intelligence research, investigative consultancy, decision science, behavioural data science, risk analysis, and applied research*
+*Seeking roles in Intelligence Research, Investigative Consultancy, Decision Science, Behavioural Data Science, Risk Analysis, and Applied Research*
 
 </div>
