@@ -48,9 +48,8 @@ I approach quantitative problems through a behavioural lens because the numbers 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Claude]
-![Codex]
-![Cursor]
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
 
 **Methods**
 
@@ -76,16 +75,6 @@ I approach quantitative problems through a behavioural lens because the numbers 
 | [🎮 Foresight](https://github.com/davo-bot/Foresight) | Behavioural research instrument testing matchmaking manipulation vs psychology vs fatigue | 🟡 Active |
 | [🤖 LLM Adversarial Research](https://github.com/davo-bot/llm-adversarial-research) | Documented study of AI reasoning degradation under cognitive load and social framing | 🟢 Complete |
 | [🏙 Thamesmead Economic Analysis](https://github.com/davo-bot/thamesmead-economic-analysis) | Cross-database validation showing UK business statistics are database-dependent constructs | 🔴 Halted |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=davo-bot&theme=tokyonight&hide_border=true)](https://github.com/davo-bot)
-
-</div>
 
 ---
 <div align="center">
