@@ -71,7 +71,7 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 | Project | What It Does | Status |
 |--------|-------------|----------|
-| [📶 Signal-to-Speech-Engine]((https://github.com/davo-bot/Signal-to-Speech-Engine) | multi-agent AI pipeline that converts contact intelligence into personalised, evidence-backed outreach frameworks for management consulting recruitment | 🟢 Complete |
+| [📶 Signal-to-Speech-Engine](https://github.com/davo-bot/Signal-to-Speech-Engine) | multi-agent AI pipeline that converts contact intelligence into personalised, evidence-backed outreach frameworks for management consulting recruitment | 🟢 Complete |
 | [🔍 Insider Protocol](https://github.com/davo-bot/insider-protocol) | Real-time fraud detection for crypto markets using concentration velocity monitoring | 🟡 Active |
 | [⚙️ Four Quadrants LLM Framework](https://github.com/davo-bot/four-quadrants-public) | a framework for long-session AI work that preserves thinking quality through structured roles, shared working state, and comprehension-aware scaffolding | 🟡 Active |
 | [🎮 Foresight](https://github.com/davo-bot/Foresight) | Behavioural research instrument testing matchmaking manipulation vs psychology vs fatigue | 🔴 Halted |
