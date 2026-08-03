@@ -62,15 +62,16 @@ I approach quantitative problems through a behavioural lens because the numbers 
 ## 🚧 Currently Working On
 
 - 🔬 **Insider Protocol** — Building a real-time fraud detection layer for crypto markets that identifies manipulation before it becomes visible on price charts, testing as an opportunity to locate tokens with higher user confidence of potential price appreciation at public release.
-- 📊 **Foresight** — Measuring whether performance deteriorates at predictable psychological thresholds or whether the pattern is externally engineered in competitive games, aided with Impulsiveness and measuring performance to learn and understand person patterns to encourage improvement and growth. 
 - 📚 **Learning:** Deepening expertise in AI prompt engineering and adversarial AI testing, while building toward Streamlit dashboards and machine learning for behavioural modelling
 
 ---
 
 ## 📌 Projects
 
+**Technical Projects**
+
 | Project | What It Does | Status |
-|--------|-------------|----------|
+|---|---|---|
 | [📶 Signal-to-Speech-Engine](https://github.com/davo-bot/Signal-to-Speech-Engine) | multi-agent AI pipeline that converts contact intelligence into personalised, evidence-backed outreach frameworks for management consulting recruitment | 🟢 Complete |
 | [🔍 Insider Protocol](https://github.com/davo-bot/insider-protocol) | Real-time fraud detection for crypto markets using concentration velocity monitoring | 🟡 Active |
 | [⚙️ Four Quadrants LLM Framework](https://github.com/davo-bot/four-quadrants-public) | a framework for long-session AI work that preserves thinking quality through structured roles, shared working state, and comprehension-aware scaffolding | 🟡 Active |
@@ -78,6 +79,13 @@ I approach quantitative problems through a behavioural lens because the numbers 
 | [🤖 LLM Adversarial Research](https://github.com/davo-bot/llm-adversarial-research) | Documented study of AI reasoning degradation under cognitive load and social framing | 🟢 Complete |
 | [🏙 Thamesmead Economic Analysis](https://github.com/davo-bot/thamesmead-economic-analysis) | Cross-database validation showing UK business statistics are database-dependent constructs | 🟢 Completed |
 
+**Research & Analysis**
+
+| Project | What It Does | Status |
+|---|---|---|
+| [📊 Tesla Consumer Behaviour Analysis](https://github.com/davo-bot/tesla-consumer-behaviour-analysis) | Applied ELM, DRIP, and Hierarchy of Effects models to locate the exact stage where a marketing campaign's persuasion breaks down | 🟢 Complete |
+| [🧭 Leadership Case Studies](https://github.com/davo-bot/leadership-case-studies) | Two organisational diagnostics: personality-role fit and cross-functional team dysfunction, from academic theory to specific intervention | 🟢 Complete |
+| [🧠 Child Development Psychology](https://github.com/davo-bot/child-development-psychology) | Evaluating causal pathways in parental mental health and language-perception research, weighing adult and infant evidence against each other | 🟢 Complete |
 ---
 <div align="center">
   
