@@ -61,8 +61,7 @@ I approach quantitative problems through a behavioural lens because the numbers 
 
 ## 🚧 Currently Working On
 
-- 🔬 **Insider Protocol** — Building a real-time fraud detection layer for crypto markets that identifies manipulation before it becomes visible on price charts, testing as an opportunity to locate tokens with higher user confidence of potential price appreciation at public release.
-- 📚 **Learning:** Deepening expertise in AI prompt engineering and adversarial AI testing, while building toward Streamlit dashboards and machine learning for behavioural modelling
+- 📚 **Learning:** Deepening expertise in AI prompt engineering, while building toward Streamlit dashboards and machine learning for behavioural modelling
 
 ---
 
@@ -73,7 +72,7 @@ I approach quantitative problems through a behavioural lens because the numbers 
 | Project | What It Does | Status |
 |---|---|---|
 | [📶 Signal-to-Speech-Engine](https://github.com/davo-bot/Signal-to-Speech-Engine) | multi-agent AI pipeline that converts contact intelligence into personalised, evidence-backed outreach frameworks for management consulting recruitment | 🟢 Complete |
-| [🔍 Insider Protocol](https://github.com/davo-bot/insider-protocol) | Real-time fraud detection for crypto markets using concentration velocity monitoring | 🟡 Active |
+| [🔍 Insider Protocol](https://github.com/davo-bot/insider-protocol) | Real-time surveillance tool for crypto tokens, identifying specific token metrics for improved decision-making testing as an opportunity to locate tokens with higher user confidence of potential price appreciation at public release.  | 🟡 Active |
 | [⚙️ Four Quadrants LLM Framework](https://github.com/davo-bot/four-quadrants-public) | a framework for long-session AI work that preserves thinking quality through structured roles, shared working state, and comprehension-aware scaffolding | 🟡 Active |
 | [🎮 Foresight](https://github.com/davo-bot/Foresight) | Behavioural research instrument testing matchmaking manipulation vs psychology vs fatigue | 🔴 Halted |
 | [🤖 LLM Adversarial Research](https://github.com/davo-bot/llm-adversarial-research) | Documented study of AI reasoning degradation under cognitive load and social framing | 🟢 Complete |
